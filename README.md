@@ -11,7 +11,7 @@ First Part:
 The first part is implement websocket on swift.
 Firstly, you need to follow the instruction(Install and Get Started) on 
 https://cocoapods.org/
-to intall Starscream and add that into your xcode project. And in the Podfile, you need to use a correct version accoring to you xcode. My xcode is 9.2, so I use "platform :ios, '9.0'" in that file. And you need to open Xcode workspace in right way.
+to intall Starscream and add that into your xcode project. And in the Podfile, you need to use a correct version according to you xcode. My xcode is 9.2, so I use "platform :ios, '9.0'" in that file. And you need to open Xcode workspace in right way.
 Then you can see details about how to use Starscream in second post. One thing to mention, the url should be the IP address of your access point created by ESP32, which will be mentioned in second part.
 
 Second Part:
