@@ -5,7 +5,7 @@ I got a lot of help from 2 posts:
 https://techtutorialsx.com/2017/11/03/esp32-arduino-websocket-server-over-soft-ap/
 and
 https://github.com/daltoniam/Starscream
-The first one do the same thing basing on python, while the second post do websocket on swift. I do some change and connection on these 2 posts and realize the basic data transmission basing on websocket between App and esp32.
+The first one do the same thing basing on python, while the second post do websocket on swift. I do some change and bridging on these 2 posts and realize the basic data transmission basing on websocket between App and esp32.
 
 First Part:
 The first part is implement websocket on swift.
